@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro+Titling&display=swap');
+
+body {
+    background-image: linear-gradient(to right, black, white, red);
+    font-family: 'Castoro Titling', cursive;
+    font-style: italic;
+    color: white;
+    
+}    
+
+#image{
+    width:80%;
+    height: 600px;
+}
